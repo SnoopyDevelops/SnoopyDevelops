@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NLP and CV project
 - 💬 Ask me about Python and ML
-- 📫 How to reach me: ‪(669) 244-6355‬
+- 📫 How to reach me: +1 ‪(669) 244-6355‬
