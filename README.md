@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on NLP and CV project
 - 💬 Ask me about Python and ML
 - 🌱 I’m currently learning blockchain
-- 
