@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +1 ‪(669) 244-6355‬
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingInABubble&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LivingInABubble)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 - 🔭 I’m currently working on NLP and CV project
