@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingInABubble&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 🔭 I’m currently working on NLP and CV project
+- 🔭 I’ve been working as software engineer for years
 - 💬 Ask me about Python and ML
 - 🌱 I’m currently learning blockchain
 
