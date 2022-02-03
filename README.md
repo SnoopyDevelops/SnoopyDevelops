@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingInABubble&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 🔭 I’ve been working as software engineer for years
-- 💬 Ask me about Python and ML
+- 🔭 I’ve been working as software engineer in the fields of data engineering and analytics
+- 💬 Ask me about Python and data science
 - 🌱 I’m currently learning blockchain
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivingInABubble&count_private=true&show_icons=true&theme=radical)
