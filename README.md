@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python and data science
 - 🌱 I’m currently learning blockchain
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivingInABubble&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnoopyDevelops&count_private=true&show_icons=true&theme=radical)
