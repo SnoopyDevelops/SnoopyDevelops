@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +13,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingInABubble&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+- 😄 Pronouns: Him
 - 🔭 I’ve been working as software engineer in the fields of data science and data engineering
 - 💬 Ask me about Python
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently working in the fields of generative AI including GPT and stable diffusion
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnoopyDevelops&count_private=true&show_icons=true&theme=radical)
