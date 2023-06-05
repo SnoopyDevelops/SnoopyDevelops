@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 - 🌱 I’m currently working in the fields of generative AI including GPT and stable diffusion
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnoopyDevelops&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnoopyDevelops&count_private=true&rank_icon=github&theme=radical)
